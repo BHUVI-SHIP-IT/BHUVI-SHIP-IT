@@ -12,7 +12,7 @@ ROWS = [
     ("Languages", "Python, SQL, Swift, JS, C++, C, Java, TS"),
     ("AI / ML", "PyTorch, OpenCV, LangChain, LlamaIndex, CrewAI"),
     ("Backend", "Node.js, Express, Django, Flask, FastAPI"),
-    ("Cloud & DevOps", "Docker, K8s, Azure, AWS, GCP, GitHub Actions"),
+    ("Cloud and DevOps", "Docker, K8s, Azure, AWS, GCP, GitHub Actions"),
     ("Databases", "PostgreSQL, MongoDB, Firebase, Neo4j, IceBerg"),
     ("Achievements", "Hackfinity Winner, SIH Top 50, AIVENTRA 3rd")
 ]

@@ -35,7 +35,7 @@
         <text x="0" y="200"><tspan class="key">Languages:     </tspan> Python, SQL, Swift, JS, C++, C, Java, TS</text>
         <text x="0" y="225"><tspan class="key">AI / ML:       </tspan> PyTorch, OpenCV, LangChain, LlamaIndex, CrewAI</text>
         <text x="0" y="250"><tspan class="key">Backend:       </tspan> Node.js, Express, Django, Flask, FastAPI</text>
-        <text x="0" y="275"><tspan class="key">Cloud & DevOps:</tspan> Docker, K8s, Azure, AWS, GCP, GitHub Actions</text>
+        <text x="0" y="275"><tspan class="key">Cloud and DevOps:</tspan> Docker, K8s, Azure, AWS, GCP, GitHub Actions</text>
         <text x="0" y="300"><tspan class="key">Databases:     </tspan> PostgreSQL, MongoDB, Firebase, Neo4j, IceBerg</text>
         <text x="0" y="325"><tspan class="key">Achievements:  </tspan> Hackfinity Winner, SIH Top 50, AIVENTRA 3rd</text>
     </g>
