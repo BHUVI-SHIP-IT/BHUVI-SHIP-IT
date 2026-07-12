@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 300" width="370" height="300">
+    <style>
+        .ascii {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 10px;
+            fill: #8b949e;
+            white-space: pre;
+        }
+    </style>
+    <rect width="100%" height="100%" fill="none" />
+    <g class="ascii">
+        <text x="0" y="12" opacity="0">
+                                                              
+            <animate attributeName="opacity" values="0;1" begin="0.0s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="24" opacity="0">
+                                                              
+            <animate attributeName="opacity" values="0;1" begin="0.05s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="36" opacity="0">
+                                )%pWWO#dZB#                   
+            <animate attributeName="opacity" values="0;1" begin="0.1s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="48" opacity="0">
+                              #Bk8%]B%MdBhBBBW                
+            <animate attributeName="opacity" values="0;1" begin="0.15000000000000002s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="60" opacity="0">
+                            j%k@B*&amp;#d%bBBq%%BBBL              
+            <animate attributeName="opacity" values="0;1" begin="0.2s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="72" opacity="0">
+                            BB@*B@MB&amp;wJqMWBBBBBB]             
+            <animate attributeName="opacity" values="0;1" begin="0.25s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="84" opacity="0">
+                            x&amp;a+     +_-~\QpB%@M&amp;             
+            <animate attributeName="opacity" values="0;1" begin="0.30000000000000004s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="96" opacity="0">
+                            #a+      +   )1[md#%#             
+            <animate attributeName="opacity" values="0;1" begin="0.35000000000000003s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="108" opacity="0">
+                             ]+YC  toQ  |{?)~vXZh             
+            <animate attributeName="opacity" values="0;1" begin="0.4s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="120" opacity="0">
+                             v {{Q d&amp;d XQc~ - bj\c            
+            <animate attributeName="opacity" values="0;1" begin="0.45s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="132" opacity="0">
+                             }_\  &lt;zw/     1] tpQq            
+            <animate attributeName="opacity" values="0;1" begin="0.5s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="144" opacity="0">
+                             }   -tb%u   ~1/}~_wq?            
+            <animate attributeName="opacity" values="0;1" begin="0.55s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="156" opacity="0">
+                                 _ /Zx/t_\YJ_ jY              
+            <animate attributeName="opacity" values="0;1" begin="0.6000000000000001s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="168" opacity="0">
+                                0  rcr]|[rrcf                 
+            <animate attributeName="opacity" values="0;1" begin="0.65s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="180" opacity="0">
+                                      ]|fX0c/]                
+            <animate attributeName="opacity" values="0;1" begin="0.7000000000000001s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="192" opacity="0">
+                                {+ 1[Q\hd0pYJf                
+            <animate attributeName="opacity" values="0;1" begin="0.75s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="204" opacity="0">
+                                 B~fYcmd&amp;CQQv1 Z              
+            <animate attributeName="opacity" values="0;1" begin="0.8s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="216" opacity="0">
+                                 tf      [Ucx w@U             
+            <animate attributeName="opacity" values="0;1" begin="0.8500000000000001s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="228" opacity="0">
+                           ~      rW]  _ +rCrbd@~  }          
+            <animate attributeName="opacity" values="0;1" begin="0.9s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="240" opacity="0">
+                      x]  )  [      *MtfJz\&lt;O*pB  c f|/{      
+            <animate attributeName="opacity" values="0;1" begin="0.9500000000000001s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="252" opacity="0">
+                      n_]]_|_C    %o] hmxxj_p0U   B&amp;hnC~[f    
+            <animate attributeName="opacity" values="0;1" begin="1.0s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="264" opacity="0">
+                    _  J?}h\ jxJcmY X~  wXYnvr   |Yzk)1{~  [_ 
+            <animate attributeName="opacity" values="0;1" begin="1.05s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="276" opacity="0">
+                    1)  w( w  z   X- |Q   0qCw  U]Q/Y) +  n v 
+            <animate attributeName="opacity" values="0;1" begin="1.1s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="288" opacity="0">
+                  &lt;  _c \or k  d ? mj +O   pd~ Xw]x  } -c w rt
+            <animate attributeName="opacity" values="0;1" begin="1.1500000000000001s" dur="2s" fill="freeze" />
+        </text>
+        <text x="0" y="300" opacity="0">
+                 t   ( v qp    }(}&lt;(0r }k(] % aC||_ -- &lt;  |]W0
+            <animate attributeName="opacity" values="0;1" begin="1.2000000000000002s" dur="2s" fill="freeze" />
+        </text>
+    </g>
+</svg>

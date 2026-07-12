@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 500" width="490" height="500">
+    <style>
+        .text {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+            fill: #c9d1d9;
+            white-space: pre;
+        }
+        .key {
+            fill: #58a6ff;
+            font-weight: bold;
+        }
+        .title {
+            fill: #58a6ff;
+            font-weight: bold;
+        }
+        .container {
+            fill: #0d1117;
+            stroke: #30363d;
+            stroke-width: 1;
+            rx: 6px;
+        }
+    </style>
+    <rect class="container" width="100%" height="100%" />
+    <g class="text" transform="translate(20, 30)">
+        <text class="title" x="0" y="0">bhuvi@ship-it</text>
+        <text x="0" y="20">-------------</text>
+
+        <text x="0" y="50"><tspan class="key">OS:            </tspan> Arch Linux (Just kidding, it's Ubuntu)</text>
+        <text x="0" y="75"><tspan class="key">Role:          </tspan> Software Dev Engineer | Backend | AI/ML</text>
+        <text x="0" y="100"><tspan class="key">Location:      </tspan> Chennai, India 📍</text>
+        <text x="0" y="125"><tspan class="key">Experience:    </tspan> CoinSwitch, Brakes India, Alldigi-tech</text>
+        <text x="0" y="150"><tspan class="key">Projects:      </tspan> Trace Ops AI, DeepSolve, Debatron, ForensIQ</text>
+        <text x="0" y="175"><tspan class="key">LeetCode:      </tspan> 776+ solved, 1915 peak rating 🧠</text>
+        <text x="0" y="200"><tspan class="key">Languages:     </tspan> Python, SQL, Swift, JS, C++, C, Java, TS</text>
+        <text x="0" y="225"><tspan class="key">AI / ML:       </tspan> PyTorch, OpenCV, LangChain, LlamaIndex, CrewAI</text>
+        <text x="0" y="250"><tspan class="key">Backend:       </tspan> Node.js, Express, Django, Flask, FastAPI</text>
+        <text x="0" y="275"><tspan class="key">Cloud & DevOps:</tspan> Docker, K8s, Azure, AWS, GCP, GitHub Actions</text>
+        <text x="0" y="300"><tspan class="key">Databases:     </tspan> PostgreSQL, MongoDB, Firebase, Neo4j, IceBerg</text>
+        <text x="0" y="325"><tspan class="key">Achievements:  </tspan> Hackfinity Winner, SIH Top 50, AIVENTRA 3rd</text>
+    </g>
+</svg>
