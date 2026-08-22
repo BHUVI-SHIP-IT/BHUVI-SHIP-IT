@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 815 125" width="815" height="125">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 125" width="830" height="125">
     <rect width="100%" height="100%" fill="none" />
     <g transform="translate(10, 10)">
         <rect x="0" y="0" width="11" height="11" fill="#161b22" rx="2" opacity="0">
@@ -952,7 +952,7 @@
         <rect x="675" y="15" width="11" height="11" fill="#161b22" rx="2" opacity="0">
             <animate attributeName="opacity" values="0;1" begin="2.25s" dur="1s" fill="freeze" />
         </rect>
-        <rect x="675" y="30" width="11" height="11" fill="#161b22" rx="2" opacity="0">
+        <rect x="675" y="30" width="11" height="11" fill="#006d32" rx="2" opacity="0">
             <animate attributeName="opacity" values="0;1" begin="2.25s" dur="1s" fill="freeze" />
         </rect>
         <rect x="675" y="45" width="11" height="11" fill="#161b22" rx="2" opacity="0">
@@ -1109,6 +1109,9 @@
             <animate attributeName="opacity" values="0;1" begin="2.6s" dur="1s" fill="freeze" />
         </rect>
         <rect x="780" y="75" width="11" height="11" fill="#161b22" rx="2" opacity="0">
+            <animate attributeName="opacity" values="0;1" begin="2.6s" dur="1s" fill="freeze" />
+        </rect>
+        <rect x="780" y="90" width="11" height="11" fill="#161b22" rx="2" opacity="0">
             <animate attributeName="opacity" values="0;1" begin="2.6s" dur="1s" fill="freeze" />
         </rect>
     </g>
