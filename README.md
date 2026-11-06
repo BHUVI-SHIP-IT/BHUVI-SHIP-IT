@@ -4,23 +4,21 @@
 
 <br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=BHUVI-SHIP-IT&style=flat&color=00E5FF&label=PROFILE+VIEWS)](https://github.com/BHUVI-SHIP-IT)
-[![GitHub followers](https://img.shields.io/github/followers/BHUVI-SHIP-IT?style=flat&color=176BFF&labelColor=0A0D14&logo=github)](https://github.com/BHUVI-SHIP-IT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=flat&logo=linkedin&logoColor=00E5FF&labelColor=0A0D14)](https://linkedin.com/in/bhuvaneswar123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=flat&logo=firefox&logoColor=8B5CF6&labelColor=0A0D14)](https://gamified-portfolio-bhuvi.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-176BFF?style=flat&logo=gmail&logoColor=176BFF&labelColor=0A0D14)](mailto:bhuvaneswar981@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=BHUVI-SHIP-IT&style=for-the-badge&color=00E5FF&labelColor=0A0D14&label=PROFILE+VIEWS)](https://github.com/BHUVI-SHIP-IT)
+[![GitHub followers](https://img.shields.io/github/followers/BHUVI-SHIP-IT?style=for-the-badge&color=176BFF&labelColor=0A0D14&logo=github)](https://github.com/BHUVI-SHIP-IT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0D14)](https://linkedin.com/in/bhuvaneswar123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=firefox&logoColor=8B5CF6&labelColor=0A0D14)](https://gamified-portfolio-bhuvi.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-176BFF?style=for-the-badge&logo=gmail&logoColor=176BFF&labelColor=0A0D14)](mailto:bhuvaneswar981@gmail.com)
 
 <br>
 
 <a href="https://github.com/BHUVI-SHIP-IT">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=35&lines=AI+Systems+Engineer;Multi-Agent+Architecture;Full-Stack+Developer;Cloud-Native+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=%E2%9A%A1+AI+Systems+Engineer;%F0%9F%94%AC+Multi-Agent+Architecture;%F0%9F%92%BB+Full-Stack+Developer;%E2%98%81%EF%B8%8F+Cloud-Native+Builder;%F0%9F%A7%A0+Building+the+Future+with+Code" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -43,11 +41,15 @@
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060A,50:0A1628,100:05060A&height=1" width="100%" />
 
 <br>
 
-## `> CLASSIFIED // PERSONNEL DATABASE`
+<!-- ═══════════════════════════ CLASSIFIED DOSSIER ═══════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:176BFF,100:0A0D14&height=100&section=header&text=%E2%96%B6%20CLASSIFIED%20//%20PERSONNEL%20DATABASE&fontSize=20&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%" />
+</div>
 
 <table>
 <tr>
@@ -87,11 +89,11 @@ CURRENT OBJECTIVE:
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<!-- ═══════════════════════════ TECHNOLOGY ARSENAL ═══════════════════════════ -->
 
-<br>
-
-## `> TECHNOLOGY ARSENAL // VERIFIED CAPABILITIES`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:8B5CF6,100:0A0D14&height=100&section=header&text=%E2%96%B6%20TECHNOLOGY%20ARSENAL%20//%20VERIFIED%20CAPABILITIES&fontSize=20&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -105,21 +107,21 @@ CURRENT OBJECTIVE:
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
 &nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="28" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="28" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="28" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="30" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="30" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="30" />
 
 <br><br>
 
 **`AGENTIC / LLM FRAMEWORKS`**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="28" />
-<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" alt="LlamaIndex" height="28" />
-<img src="https://img.shields.io/badge/LangGraph-176BFF?style=for-the-badge&logoColor=white" alt="LangGraph" height="28" />
-<img src="https://img.shields.io/badge/CrewAI-00E5FF?style=for-the-badge&logoColor=black" alt="CrewAI" height="28" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" height="28" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="28" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="30" />
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" alt="LlamaIndex" height="30" />
+<img src="https://img.shields.io/badge/LangGraph-176BFF?style=for-the-badge&logoColor=white" alt="LangGraph" height="30" />
+<img src="https://img.shields.io/badge/CrewAI-00E5FF?style=for-the-badge&logoColor=black" alt="CrewAI" height="30" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" height="30" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="30" />
 
 <br><br>
 
@@ -139,22 +141,21 @@ CURRENT OBJECTIVE:
 
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql&theme=dark" alt="Databases" />
 &nbsp;
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" height="28" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" height="30" />
 
 </div>
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
-
-<br>
-
-## `> EXPERIMENTAL LAB // SELECTED ENGINEERING PROJECTS`
-
-<br>
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
 <div align="center">
-<i>"Don't wait for the future. Build the infrastructure for it."</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:00E5FF,100:0A0D14&height=100&section=header&text=%E2%96%B6%20EXPERIMENTAL%20LAB%20//%20ENGINEERING%20PROJECTS&fontSize=20&fontColor=F5F7FF&fontAlignY=45&animation=fadeIn" width="100%" />
+
+<br>
+
+*"Don't wait for the future. Build the infrastructure for it."*
+
 </div>
 
 <br>
@@ -279,11 +280,11 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
 
-<br>
-
-## `> MISSION HISTORY // FIELD OPERATIONS`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:176BFF,100:0A0D14&height=100&section=header&text=%E2%96%B6%20MISSION%20HISTORY%20//%20FIELD%20OPERATIONS&fontSize=20&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%" />
+</div>
 
 <table>
 <tr>
@@ -333,26 +334,26 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 
-<br>
-
-## `> COMMAND CENTER // GITHUB ANALYTICS`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:8B5CF6,100:0A0D14&height=100&section=header&text=%E2%96%B6%20COMMAND%20CENTER%20//%20GITHUB%20ANALYTICS&fontSize=20&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=BHUVI-SHIP-IT&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&icon_color=176BFF&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=BHUVI-SHIP-IT&theme=transparent&hide_border=true&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=A8B5C7&sideNums=00E5FF&currStreakNum=F5F7FF&dates=A8B5C7" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=BHUVI-SHIP-IT&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&icon_color=176BFF&bg_color=00000000&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=BHUVI-SHIP-IT&theme=transparent&hide_border=true&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=A8B5C7&sideNums=00E5FF&currStreakNum=F5F7FF&dates=A8B5C7&background=00000000" width="49%" alt="Streak Stats" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BHUVI-SHIP-IT&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&layout=compact&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BHUVI-SHIP-IT&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&bg_color=00000000&layout=compact&langs_count=10" width="55%" alt="Top Languages" />
 
 <br><br>
 
 <img src="https://github-trophies.vercel.app/?username=BHUVI-SHIP-IT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="Trophies" />
 
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BHUVI-SHIP-IT/BHUVI-SHIP-IT/output/github-snake-dark.svg" />
@@ -364,11 +365,11 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
 
-<br>
-
-## `> LIVE OPERATIONS // CURRENT FOCUS`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:00E5FF,100:0A0D14&height=100&section=header&text=%E2%96%B6%20LIVE%20OPERATIONS%20//%20CURRENT%20FOCUS&fontSize=20&fontColor=F5F7FF&fontAlignY=45&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -389,11 +390,11 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <br>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
 
-<br>
-
-## `> COMMUNICATION TERMINAL // ESTABLISH CONNECTION`
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:176BFF,100:0A0D14&height=100&section=header&text=%E2%96%B6%20COMMUNICATION%20TERMINAL%20//%20ESTABLISH%20CONNECTION&fontSize=18&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -416,6 +417,6 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,50:176BFF,100:00E5FF&height=80&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,50:176BFF,100:00E5FF&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
