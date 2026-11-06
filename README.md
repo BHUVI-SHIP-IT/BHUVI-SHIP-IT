@@ -352,6 +352,10 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <img src="https://github-profile-trophy.vercel.app/?username=BHUVI-SHIP-IT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="Trophies" />
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUVI-SHIP-IT&bg_color=05060A&color=A8B5C7&line=00E5FF&point=8B5CF6&area=true&area_color=176BFF&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
 <br>
