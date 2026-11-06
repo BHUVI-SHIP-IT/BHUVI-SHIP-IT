@@ -341,20 +341,24 @@ Autonomous planner–builder system that decomposes requirements, implements cod
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BHUVI-SHIP-IT&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&icon_color=176BFF&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=BHUVI-SHIP-IT&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&icon_color=176BFF&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=BHUVI-SHIP-IT&theme=transparent&hide_border=true&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=A8B5C7&sideNums=00E5FF&currStreakNum=F5F7FF&dates=A8B5C7" width="49%" alt="Streak Stats" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUVI-SHIP-IT&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&layout=compact&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BHUVI-SHIP-IT&theme=transparent&hide_border=true&title_color=00E5FF&text_color=A8B5C7&layout=compact&langs_count=8" width="49%" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BHUVI-SHIP-IT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=BHUVI-SHIP-IT&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="Trophies" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUVI-SHIP-IT&bg_color=05060A&color=A8B5C7&line=00E5FF&point=8B5CF6&area=true&area_color=176BFF&hide_border=true" width="100%" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BHUVI-SHIP-IT/BHUVI-SHIP-IT/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BHUVI-SHIP-IT/BHUVI-SHIP-IT/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/BHUVI-SHIP-IT/BHUVI-SHIP-IT/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
